@@ -1,16 +1,16 @@
-### Hi there 👋 I'll update this soon, no worries :-)
+<h2> Hello there, I'm Milutin! 
+  <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="50">
+</h2>
+<img align='right' src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="230">
+<p>
+  <em>Senior/Team Lead Web and Mobile developer at   
+      <a href="http://k7tech.agency">
+        <img src="https://k7tech.agency/images/home/k7tech-logo-big.webp" width="100">
+      </a>
+   </em>
+</p>
 
-<!--
-**Milutin-P/Milutin-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub Milutin-P](https://img.shields.io/github/followers/Milutin-P?label=follow&style=social)](https://github.com/Milutin-P)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+#### I'll add more details soon :-)
