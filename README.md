@@ -4,9 +4,7 @@
 <img align='right' src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="230">
 <p>
   <em>Team Lead and Senior Web/Mobile developer at   
-      <a href="http://k7tech.agency">
-        <img src="https://k7tech.agency/images/home/k7tech-logo-big.webp" width="100">
-      </a>
+      <a href="http://k7tech.agency">K7 Tech</a>
    </em>
 </p>
 
